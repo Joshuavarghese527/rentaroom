@@ -1,24 +1,21 @@
-# README
+# FEATURES
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Web User Interface New
 
-Things you may want to cover:
+* Authentication with Email + Facebook
 
-* Ruby version
+* Transactional Emails
 
-* System dependencies
+* User Identification with Email
 
-* Configuration
+* Custom Notification with jQuery and CSS New
 
-* Database creation
+* Functions Allow Hosts to Create Rooms in Steps New
 
-* Database initialization
+* Functions Allow Guests to Book Reservations
 
-* How to run the test suite
+* Photos Upload to AWS S3 New
 
-* Services (job queues, cache servers, search engines, etc.)
+* 2-way Review System New
 
-* Deployment instructions
-
-* ...
+* AJAX Searching
