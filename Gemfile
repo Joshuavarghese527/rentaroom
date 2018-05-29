@@ -32,6 +32,6 @@ end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'bootstrap-sass', '~> 3.3.7'
-gem 'sass-rails', '>= 3.2'
+gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
+gem 'devise'
