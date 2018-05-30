@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>AirbnbClone</title>
+
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -10,12 +11,13 @@
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/hot-sneaks/jquery-ui.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
   </head>
 
   <body>
 
     <%= render 'shared/navbar' %>
-    <%= render 'shared/messages' %>
+    <%= render 'shared/message' %>
 
     <div class="container">
       <%= yield %>

@@ -47,7 +47,7 @@ GEM
     archive-zip (0.11.0)
       io-like (~> 0.3.0)
     arel (9.0.0)
-    autoprefixer-rails (8.5.1)
+    autoprefixer-rails (8.5.2)
       execjs
     bcrypt (3.1.12)
     bindex (0.5.0)
@@ -209,6 +209,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt
   bootsnap (>= 1.1.0)
   bootstrap-sass (~> 3.3.6)
   byebug
@@ -225,7 +226,7 @@ DEPENDENCIES
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)
-  toastr-rails
+  toastr-rails (~> 1.0)
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
