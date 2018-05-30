@@ -193,13 +193,13 @@ AUTOCONF = ${SHELL} /Users/Joshuavarghese/Desktop/client/Portfolio/AirbnbClone/v
 AUTOHEADER = ${SHELL} /Users/Joshuavarghese/Desktop/client/Portfolio/AirbnbClone/vendor/cache/ruby/2.5.0/gems/ffi-1.9.23/ext/ffi_c/libffi/missing autoheader
 AUTOMAKE = ${SHELL} /Users/Joshuavarghese/Desktop/client/Portfolio/AirbnbClone/vendor/cache/ruby/2.5.0/gems/ffi-1.9.23/ext/ffi_c/libffi/missing automake-1.15
 AWK = awk
-CC = gcc
-CCAS = gcc
+CC = clang
+CCAS = clang
 CCASDEPMODE = depmode=none
 CCASFLAGS = 
 CCDEPMODE = depmode=none
 CFLAGS =  -Wall -fexceptions
-CPP = gcc -E
+CPP = clang -E
 CPPFLAGS = 
 CXX = g++
 CXXCPP = g++ -E
@@ -270,7 +270,7 @@ abs_srcdir = /Users/Joshuavarghese/Desktop/client/Portfolio/AirbnbClone/vendor/c
 abs_top_builddir = /Users/Joshuavarghese/Desktop/client/Portfolio/AirbnbClone/vendor/cache/ruby/2.5.0/gems/ffi-1.9.23/ext/ffi_c/libffi-x86_64-darwin16
 abs_top_srcdir = /Users/Joshuavarghese/Desktop/client/Portfolio/AirbnbClone/vendor/cache/ruby/2.5.0/gems/ffi-1.9.23/ext/ffi_c/libffi
 ac_ct_AR = ar
-ac_ct_CC = gcc
+ac_ct_CC = clang
 ac_ct_CXX = g++
 ac_ct_DUMPBIN = 
 am__include = include

@@ -37,3 +37,4 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'toastr-rails', '~> 1.0'
 gem 'bcrypt'
+gem "figaro"
