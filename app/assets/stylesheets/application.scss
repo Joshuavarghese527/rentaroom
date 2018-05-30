@@ -89,6 +89,18 @@ a {
   background-color: #066165;
 }
 
+.btn.btn-facebook {
+  border: 1px solid #3B5998;
+  background-color: #3B5998;
+}
+
+.btn.btn-facebook:active {
+  outline: none;
+  border-color: #2d467b;
+  background-color: #2d467b;
+}
+
+
 
 // FORMS
 .form-group {
