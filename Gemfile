@@ -39,6 +39,8 @@ gem 'toastr-rails', '~> 1.0'
 gem 'bcrypt'
 gem "figaro"
 
+gem 'aws-sdk', '~> 3'
+
 
 gem 'omniauth', '~> 1.6'
 gem 'omniauth-facebook', '~> 4.0'
