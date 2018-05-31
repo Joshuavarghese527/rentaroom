@@ -46,3 +46,4 @@ gem 'omniauth', '~> 1.6'
 gem 'omniauth-facebook', '~> 4.0'
 
 gem "paperclip", "~> 6.0.0"
+gem 'geocoder', '~> 1.4'
